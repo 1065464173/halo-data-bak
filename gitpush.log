@@ -262,3 +262,16 @@ hint: to the same ref. You may want to first integrate the remote changes
 hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ===========================2023-02-06-08:57===============================
+[main 1c223b9] autocommit
+ 3 files changed, 20 insertions(+)
+ create mode 100644 halo-20230204.tar.gz
+ create mode 100644 halo-20230206.tar.gz
+To github.com:1065464173/halo-data-bak.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'github.com:1065464173/halo-data-bak.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+===========================2023-02-06-08:57===============================
